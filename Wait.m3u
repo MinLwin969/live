@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahar Bhawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="Myanmar TV",MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar TV",Channel-7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Myanmar TV",Mahar TV
+https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar TV",Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Myanmar TV",Fortune TV
+http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar TV",Mizzima TV
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png" group-title="Myanmar TV",5 Plus
+http://cdn-edge.otv.co.th/mmplay/5plus/chunklist_w1777296546.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_entertainment.png" group-title="Myanmar TV",Channel Me
+http://cdn-edge.otv.co.th/mmplay/mrtv-entertainment/chunklist_w1437503706.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic_voice_of_burma.png" group-title="Myanmar TV",DVB
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_movies.png" group-title="Myanmar TV",MWD Movie
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_variety.png" group-title="Myanmar TV",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD FAMILY
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_documentary.png" group-title="Myanmar TV",MWD Document
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd-shopping-mm.png" group-title="Myanmar TV",MWD Shopping
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar TV",MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm.png" group-title="Myanmar TV",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-farmer-mm.png" group-title="Myanmar TV",MRTV FARMERS
+rtmp://203.81.81.229/livepkgr/farmer
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-races-channel-mm.png" group-title="Myanmar TV",MRTV NRC
+rtmp://203.81.81.229/livepkgr/NRC
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-hluttaw-mm.png" group-title="Myanmar TV",HUTTAW
+rtmp://203.81.81.229/livepkgr/HTT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png" group-title="Myanmar TV",Channel-9
+https://stream.myanmartvchannels.com:999/website-channel9sd/website-channel9sd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png" group-ti
